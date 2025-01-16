@@ -19,7 +19,7 @@ st.markdown(
     .stApp {
         background-image:
         radial-gradient(circle, rgba(0, 0, 0, 0.2) 80%, rgba(0, 0, 0, 1) 100%),
-        url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBnFHkg6rkNRZK5eUVK3pQ2Q0hPgRS7U8e5R0uTG0dpq5BdV4XFzQ45bPVK6eZJQwIEv7vKKbVSKa1ZeWbdy9HosBIxOJoSu9OAD7CN3xym9TCHqkW3HD7HEHm3d9DQ0WVGeiOaZ4S4knx/s1600/anonymous-mask-wallpaper-for-mobile.jpg");
+        url("https://w0.peakpx.com/wallpaper/79/587/HD-wallpaper-mask-black-vendetta-broken-logo-steel-joker-pink-love-white.jpg");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
