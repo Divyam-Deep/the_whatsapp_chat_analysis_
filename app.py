@@ -19,7 +19,7 @@ st.markdown(
     .stApp {
         background-image:
         radial-gradient(circle, rgba(0, 0, 0, 0.2) 80%, rgba(0, 0, 0, 1) 100%),
-        url("https://drive.google.com/file/d/1bWUDVHi5yZcH3hGh8cOhAwEIRzQuYmg-/view?usp=sharing");
+        url("https://w0.peakpx.com/wallpaper/79/587/HD-wallpaper-mask-black-vendetta-broken-logo-steel-joker-pink-love-white.jpg");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
