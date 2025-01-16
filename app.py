@@ -58,7 +58,7 @@ st.markdown(
 # Title
 st.markdown(
     """
-    <h1 class='title' style='color: black; font-family: "Arial", sans-serif; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);'>
+    <h1 class='title' style='color: white; font-family: "Arial", sans-serif; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);'>
         WhatsApp Chat Analyzer
     </h1>
     """,
